@@ -1,8 +1,8 @@
 Executando Operações em Python
 
-+ (adição)
-- (subtração)
-/ (divisão)
-// (divisão inteira)
-* (multiplicação)
-** (potênciação)
+1) + (adição)
+2) - (subtração)
+3) / (divisão)
+4) // (divisão inteira)
+5) * (multiplicação)
+6) ** (potênciação)
