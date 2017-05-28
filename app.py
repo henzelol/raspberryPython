@@ -1,3 +1,4 @@
+#EXERCICIO DO CURSO DE RASP
 a=str(input('Qual o turno: '))
 if a=='m' or a=='M':
 	print('bom dia')
