@@ -15,6 +15,7 @@ Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-m
 
 RESOLUÇÃO:
 
+
 a=str(input('Qual o turno: '))
 if a=='m' or a=='M':
 	print('Bom dia')
