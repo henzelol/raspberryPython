@@ -20,10 +20,10 @@ Faça um Programa que peça os 3 lados de um triângulo. O programa deverá info
 Dicas:
   - Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
   - Triângulo Equilátero: três lados iguais;
-  - Triângulo Isósceles: quaisquer dois lados iguais;
+  - Triângulo Isóceles: quaisquer dois lados iguais;
   - Triângulo Escaleno: três lados diferentes;
 
-EXERCCIO 03:
+EXERCÍCIO 03:
 
 Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
 
