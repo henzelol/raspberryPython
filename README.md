@@ -7,7 +7,7 @@ Executando Operações em Python
 5) [*] (multiplicação)
 6) ** (potênciação)
 
-OBS: NÃO LEVAR EM CONSIDERÇO OS []
+OBS: NÃO LEVAR EM CONSIDERAÇÃO OS []
 
 EXERCÍCIO 01:
 
